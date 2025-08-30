@@ -1,0 +1,2 @@
+OPENAI_API_KEY = "INSERT-YOUR-KEY"
+OPENAI_MODEL = "gpt-4o-mini"
